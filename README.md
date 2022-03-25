@@ -1,2 +1,4 @@
 # 2022_CO-OS
-this repository contains my assemble codes of CO+OS class in beihang university 
+本仓库为北航2022计算机系统基础课程的上机代码收录。
+本人仅保证代码正确性，但代码性能肯定有待提高。
+最后，代码仅供参考，请勿抄袭！
